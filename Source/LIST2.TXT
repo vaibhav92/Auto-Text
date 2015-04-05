@@ -1,0 +1,10 @@
+exit
+cls
+cd..
+cd oldtest
+unload
+ascii
+dir
+type list.txt
+edit list.txt
+edit list.txt test.txt

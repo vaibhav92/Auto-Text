@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <conio.h>
+for( ; ; ) { }
+while( ) { }
+void main()
+if( ) { }
+else { }
+int
+usigned int
+long
+usigned long

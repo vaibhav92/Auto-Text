@@ -1,0 +1,12 @@
+Dear Sir,
+
+        The MS-DOS kernal communicates with these device drives through I/Q
+request packets; the drivers then translate these requests into the
+proper commands for the various hardware controllers. In many MS-DOS
+systems, including the IBM PC, the most premative parts of the hardware
+drivers are located in read only memory (ROM) so that they canbe used by
+stand- alone applications,diagnostics, and the system start up                     program.
+The terms(resident)and (installable)are used to distinguish between
+the driversbuilt into the BIOSand the drivers installed during system
+initialization by DEVICE commands discussed in more detail later in this
+chapter 
